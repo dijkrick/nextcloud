@@ -1,3 +1,11 @@
+#dit is een comment  en een wijziging 
+
+
+
+
+
+
+
 #!/bin/bash
 #functies van het script
 
