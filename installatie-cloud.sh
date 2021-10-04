@@ -1,3 +1,10 @@
+#########################
+
+######
+
+
+
+
 #!/bin/bash
 #functies van het script
 
